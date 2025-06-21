@@ -1,3 +1,8 @@
 # ansiblle-project
 ansible projects
-<img src="/home/uday/Pictures/firstplaybook.png" />
+<html>
+  <body>
+    <img src="/home/uday/Pictures/firstplaybook.png" />
+  </body>
+</html>
+
