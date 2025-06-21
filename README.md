@@ -2,7 +2,8 @@
 ansible projects
 <html>
   <body>
-    <img src="/home/uday/Pictures/firstplaybook.png" />
+file:///home/uday/Pictures/firstplaybook.png
+
   </body>
 </html>
 
